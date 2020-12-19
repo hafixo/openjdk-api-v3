@@ -54,7 +54,7 @@
     <dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-smallrye-openapi</artifactId>
-      <version>0.18.0</version>
+      <version>0.28.1</version>
       <exclusions>
         <exclusion>
           <groupId>io.smallrye</groupId>
